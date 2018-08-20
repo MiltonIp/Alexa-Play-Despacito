@@ -1,5 +1,6 @@
 import speech_recognition as sr
 import webbrowser
+import pyaudio
 
 if __name__ == "__main__":
     # Waiting for you to say "This is so sad, Alexa play Despacito"
