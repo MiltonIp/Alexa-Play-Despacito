@@ -7,6 +7,8 @@ To run (on Linux systems)
 
 `cd Alexa-Play-Despacito`
 
+`pip install -r requirements.txt`
+
 `python3 main.py`
 
 Then say, "This is so sad, Alexa play Despacito"
