@@ -7,9 +7,11 @@ To run (on Linux systems)
 
 `cd Alexa-Play-Despacito`
 
-`pip install -r requirements.txt`
+`pip3 install -r requirements.txt`
 
-`sudo apt-get update && sudo apt-get install python-pyaudio python3-pyaudio`
+`sudo apt-get update`
+
+`sudo apt-get install python-pyaudio python3-pyaudio`
 
 `python3 main.py`
 
