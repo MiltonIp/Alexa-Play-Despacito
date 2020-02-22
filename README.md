@@ -1,5 +1,5 @@
 # Alexa-Play-Despacito
-This snippet of code/program plays Despacito when you say "This is so sad, Alexa play Despacito"
+This snippet of code plays Despacito when you say "This is so sad, Alexa play Despacito"
 
 To run (on Unix machines)
 
@@ -9,9 +9,9 @@ To run (on Unix machines)
 
 `pip3 install -r requirements.txt`
 
-`sudo apt-get update`
+`sudo apt update`
 
-`sudo apt-get install python-pyaudio python3-pyaudio`
+`sudo apt install python-pyaudio python3-pyaudio`
 
 `python3 main.py`
 
